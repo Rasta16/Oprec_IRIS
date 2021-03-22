@@ -18,13 +18,13 @@ Untuk melakukan penginstalan dapat mengikuti link berikut ini :
 
 
 * **OpenCV**
-> [OpenCV](https://www.linuxid.net/33313/cara-install-dan-konfigurasi-opencv-di-ubuntu-18-04/ "OpenCV")
+Source : [OpenCV](https://www.linuxid.net/33313/cara-install-dan-konfigurasi-opencv-di-ubuntu-18-04/ "OpenCV")
 > 
 > sudo apt update
 > 
 > sudo apt install python3-opencv
 
-Untuk mengecek : > python3 -c "import cv2; print(cv2.__version__)"
+Untuk mengecek :  python3 -c "import cv2; print(cv2.__version__)"
 
 
 * **ROS**
