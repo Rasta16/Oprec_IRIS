@@ -10,5 +10,5 @@ Sebelumnya saya ucapkan selamat kepada kalian semua yang telah lolos tahap berka
 
 Demi kelancaran magang ini, diharapkan seluruh peserta untuk mendownload ini terlebih dahulu :
 
-**Linux Ubuntu**
->kkkkkk
+* **Linux Ubuntu**
+>--------------------------------------------------------
